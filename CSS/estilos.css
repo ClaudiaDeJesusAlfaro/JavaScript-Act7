@@ -37,6 +37,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cb60b3', end
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   border: solid  white;
+  display: inline-block;
+  margin: 0 0.5rem;
   animation:bounce; 
   animation-duration: 2s;
 }
